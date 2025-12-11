@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+conversations/
